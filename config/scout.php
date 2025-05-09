@@ -18,7 +18,7 @@ return [
     'identify' => env('SCOUT_IDENTIFY', false),
 
     'algolia' => [
-        'id' => env('ALGOLIA_APP_ID', ''),
-        'secret' => env('ALGOLIA_API_KEY', ''),
+        'id' => env('ALGOLIA_APP_ID', '4JU9PG98CF'),
+        'secret' => env('ALGOLIA_SECRET', 'd37ffd358dca40447584fb2ffdc28e03'),
     ],
 ];
